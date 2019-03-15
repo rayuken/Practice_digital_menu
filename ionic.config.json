@@ -1,0 +1,7 @@
+{
+  "name": "MenuDigital",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
